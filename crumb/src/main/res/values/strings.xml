@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Crumb</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="crumb_title">第%1$d层</string>
+    <string name="list_item_txt">第%1$d层第%2$d行</string>
+</resources>

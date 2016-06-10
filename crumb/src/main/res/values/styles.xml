@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <declare-styleable name="CrumbViewAttrs">
+        <attr name="light_color" format="color"/>
+        <attr name="dark_color" format="color"/>
+        <attr name="padding" format="dimension"/>
+    </declare-styleable>
+</resources>
